@@ -12,7 +12,7 @@ This is a gym website built using TypeScript and React. It showcases the feature
 
 - **Front-end**: TypeScript, HTML, CSS, Bootstrap, JavaScript
 - **Frameworks & Libraries**: React, Framer Motion
-- **Design Tools**: Adobe Creative Suite (Photoshop, Dreamweaver)
+- **Design Tools**: Adobe Creative Suite 
 - **Content Management Systems**: Experience with CMS for efficient content management
 - **Version Control**: Knowledge of version control repository hosting service for collaborative development
 
