@@ -7,7 +7,6 @@ This is a gym website built using TypeScript and React. It showcases the feature
 - **Responsive Design**: Utilizing TypeScript, HTML, CSS, and JavaScript, the website ensures compatibility across various devices, offering a consistent experience.
 - **Dynamic Content**: Content updates, including banners, landing pages, and navigation, are efficiently managed and implemented to reflect the latest offerings and promotions.
 - **Creative Experiences**: Engaging creative experiences are developed for desktop, tablet, and mobile platforms, prioritizing user engagement and interaction.
-- **E-commerce Support**: Additional support includes managing onsite technologies, assisting with technical content problems, and participating in QA processes for site launches.
 
 ## Technologies Used
 
