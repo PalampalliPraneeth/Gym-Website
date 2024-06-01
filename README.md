@@ -22,18 +22,18 @@ To run the gym website locally, follow these steps:
 
 1. Clone the repository:
   ```bash
-  git clone https://github.com/PalampalliPraneeth/Gym-Website.git
+   git clone https://github.com/PalampalliPraneeth/Gym-Website.git
   ```
 2. Navigate to the project directory:
-   ```bash
-  cd gym-website
-  ```
+ ```bash
+ cd gym-website
+ ```
 3. Install the dependencies:
-   ```bash
-  npm install
-  ```
+```bash
+npm install
+```
 4. Start the development server:
-   ```bash
-  npm run dev
-  ```
+```bash
+npm run dev
+```
 5. Open your browser and visit http://localhost:5174 to see the website.
