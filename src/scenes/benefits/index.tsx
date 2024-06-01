@@ -15,19 +15,19 @@ const benefits: Array<BenefitType> = [
     icon: <HomeModernIcon className="h-6 w-6" />,
     title: "State of the Art Facilities",
     description:
-      "Neque adipiscing amet amet enim. Feugiat dolor enim fermentum in a in lectus pellentesque. Ullamcorper et.",
+      "Our facilities are designed to provide the highest quality environment for all your fitness needs. Featuring cutting-edge equipment, spacious workout areas, and luxurious amenities, we ensure an unparalleled fitness experience.",
   },
   {
     icon: <UserGroupIcon className="h-6 w-6" />,
     title: "100's of Diverse Classes",
     description:
-      "Eu ipsum id egestas risus tempus enim semper felis quis. Nec consectetur ac venenatis facilisi est. Eget ac turpis id.",
+      "Our gym offers an extensive array of classes designed to suit all fitness levels and interests. With hundreds of diverse options, from high-intensity interval training and spinning to yoga, Pilates, and dance, there is something for everyone.",
   },
   {
     icon: <AcademicCapIcon className="h-6 w-6" />,
     title: "Expert and Pro Trainers",
     description:
-      "Fusce vestibulum aliquam ut cras. Nisl lectus egestas sapien nisl. Lacus at mi sit pellentesque. Congue parturient.",
+      "Our gym is proud to feature a team of expert and professional trainers dedicated to helping you achieve your fitness goals. With extensive experience and certifications, our trainers bring a wealth of knowledge and personalized attention to every workout.",
   },
 ];
 
@@ -131,18 +131,10 @@ const Benefits = ({ setSelectedPage }: Props) => {
               }}
             >
               <p className="my-5">
-                Nascetur aenean massa auctor tincidunt. Iaculis potenti amet
-                egestas ultrices consectetur adipiscing ultricies enim. Pulvinar
-                fames vitae vitae quis. Quis amet vulputate tincidunt at in
-                nulla nec. Consequat sed facilisis dui sit egestas ultrices
-                tellus. Ullamcorper arcu id pretium sapien proin integer nisl.
-                Felis orci diam odio.
+              The emphasis on the word "FIT" highlights the core of our mission—helping members achieve their health and wellness goals. With a vibrant and supportive community, state-of-the-art facilities, diverse classes, and expert trainers, we are dedicated to making fitness accessible and enjoyable for everyone.
               </p>
               <p className="mb-5">
-                Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-                tellus quam porttitor. Mauris velit euismod elementum arcu neque
-                facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-                enim mattis odio in risus nunc.
+              Join us and become part of the millions who are transforming their lives and achieving their fitness aspirations.
               </p>
             </motion.div>
 

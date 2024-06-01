@@ -68,10 +68,7 @@ const OurClasses = ({ setSelectedPage }: Props) => {
           <div className="md:w-3/5">
             <HText>OUR CLASSES</HText>
             <p className="py-5">
-              Fringilla a sed at suspendisse ut enim volutpat. Rhoncus vel est
-              tellus quam porttitor. Mauris velit euismod elementum arcu neque
-              facilisi. Amet semper tortor facilisis metus nibh. Rhoncus sit
-              enim mattis odio in risus nunc.
+            Explore our diverse range of classes designed to cater to every fitness level and interest. From high-intensity workouts to mind-body practices, our classes offer something for everyone. Whether you're a beginner or an experienced fitness enthusiast, our expert instructors will guide you through dynamic and engaging sessions tailored to help you reach your goals. Discover the perfect class to challenge yourself, improve your strength, flexibility, and endurance, and elevate your fitness journey to new heights.
             </p>
           </div>
         </motion.div>

@@ -46,9 +46,7 @@ const ContactUs = ({ setSelectedPage }: Props) => {
             <span className="text-primary-500">JOIN NOW</span> TO GET IN SHAPE
           </HText>
           <p className="my-5">
-            Congue adipiscing risus commodo placerat. Tellus et in feugiat nisl
-            sapien vel rhoncus. Placerat at in enim pellentesque. Nulla
-            adipiscing leo egestas nisi elit risus sit. Nunc cursus sagittis.
+          Join us now and start your journey to a healthier, fitter you! Our comprehensive fitness programs and state-of-the-art facilities are designed to help you reach your fitness goals efficiently and effectively. With expert guidance from our trainers, access to diverse classes, and a supportive community, you'll have everything you need to get in shape and stay motivated along the way. Don't wait any longer—take the first step towards a healthier lifestyle and join us today!
           </p>
         </motion.div>
 
