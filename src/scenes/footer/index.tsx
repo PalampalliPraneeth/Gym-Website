@@ -19,7 +19,7 @@ const Footer = () => {
         </div> */}
         <div className="mt-16 basis-1/4 md:mt-0">
           <h4 className="font-bold">Contact Us</h4>
-          <p className="my-5">Connect with us today and take the first step towards your fitness journey.</p>
+          <p className="my-5">Connect us today and take the first step towards your fitness journey.</p>
           <p>+91 9999999999</p>
         </div>
       </div>
